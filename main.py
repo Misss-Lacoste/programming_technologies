@@ -4,3 +4,4 @@ b = input()
 result = a + b
 print(result)
 print("Hello, Boris Igorevich!")
+print("Hope, you're fine")
