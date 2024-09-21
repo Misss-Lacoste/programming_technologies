@@ -1,4 +1,4 @@
-# Programming technolages
+# Greetings!
 Guten Morgen, Boris Igorevich!
 Cheer up!
 Hurray!
